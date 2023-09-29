@@ -1,0 +1,1 @@
+export const API_URL = 'https://react-training2-d6844-default-rtdb.firebaseio.com/meals.json';
